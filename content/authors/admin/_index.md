@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Mohammed (Moe) AlSalman
-{style="color: black"}
 
 # Name pronunciation (optional)
 name_pronunciation: ''
