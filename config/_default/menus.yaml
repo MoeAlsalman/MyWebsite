@@ -7,21 +7,21 @@ main:
   - name: About Me
     url: /
     weight: 10
-  - name: Soon1
+  - name: Experince (Soon)
     url: /
     weight: 11
-  - name: Soon2
+  - name: Blog (Soon)
     url: /
     weight: 12
-  - name: Soon3
+  - name: Projects (Soon)
     url: /
     weight: 13
-  - name: Soon4
+  - name: Resources (Soon)
     url: /
     weight: 20
-  - name: Soon5
+  - name: News (Soon)
     url: /
     weight: 30
-  - name: Soon6
+  - name: Contact info (Soon)
     url: /
     weight: 40
