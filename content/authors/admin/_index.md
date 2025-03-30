@@ -48,7 +48,7 @@ interests:
 
 education:
   - area: |
-      B.S. Dietetics & Nutrition  
+      B.S. Dietetics & Nutrition
       B.S.LAS. Psychology: Cognitive Neuroscience
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
