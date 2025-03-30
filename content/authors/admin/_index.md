@@ -48,7 +48,17 @@ interests:
 
 education:
   - area: B.S. Dietetics & Nutrition
-    text: B.S.LAS. Psychology in Cognitive Neuroscience
+    institution: University of Illinois - Urbana Champaign
+    date_start: 2023-08-21
+    date_end: 2028-05-15
+    summary: |
+      GPA: 3.26/4.0
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+    -area: B.S.LAS. Psychology in Cognitive Neuroscience
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
     date_end: 2028-05-15
