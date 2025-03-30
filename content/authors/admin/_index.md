@@ -58,7 +58,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-    -area: B.S.LAS. Psychology in Cognitive Neuroscience
+  - area: B.S.LAS. Psychology in Cognitive Neuroscience
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
     date_end: 2028-05-15
