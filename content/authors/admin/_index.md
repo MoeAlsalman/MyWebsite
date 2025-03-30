@@ -53,11 +53,6 @@ education:
     date_end: 2028-05-15
     summary: |
       GPA: 3.26/4.0
-    summary: |
-      ''
-    button:
-      text: ''
-      url: ''
   - area: B.S.LAS. Psychology in Cognitive Neuroscience
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
