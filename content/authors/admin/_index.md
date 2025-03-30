@@ -56,7 +56,7 @@ education:
     summary: |
       ''
     button:
-      text: '
+      text: ''
       url: ''
   - area: B.S.LAS. Psychology in Cognitive Neuroscience
     institution: University of Illinois - Urbana Champaign
