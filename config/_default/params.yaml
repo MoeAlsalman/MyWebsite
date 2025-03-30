@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: green
+  color: pink
 
 # SEO
 marketing:
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: false
     logo:
-      text: "Moe AlSalman"
+      text: "M. AlSalman"
 
 # Site footer
 footer:

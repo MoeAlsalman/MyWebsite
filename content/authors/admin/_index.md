@@ -3,7 +3,7 @@
 title: Mohammed (Moe) AlSalman
 
 # Name pronunciation (optional)
-name_pronunciation: /moh-hah-mahd/
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Mohammed
