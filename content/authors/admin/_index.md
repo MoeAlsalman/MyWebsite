@@ -164,4 +164,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Moe ALSalman is a  student at the University of Illinois Urbana-Champaign, pursuing dual degrees in Dietetics & Nutrition and Cognitive Neuroscience. Currently, he serves as a Research Assistant, focusing on mental health and nutrition, while also contributing as a Teaching Assistant in contemporary nutrition. He is passionate about food equity, currently interning at Purdue University to develop sustainable food systems and reduce food waste. With a strong commitment to diversity, inclusion, and neuropsychology, he aims to drive impactful change in nutritional & health access, and mental health advancements.
