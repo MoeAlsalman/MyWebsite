@@ -55,8 +55,8 @@ education:
 
   - area: B.S. Dietitics & Nutrition; B.S.LAS. PSychology:Cognitive Neuroscience
     institution: UNiversity of Illinois - Urbana Champaign
-    date_start: ''
-    date_end: Expected May 2028
+    date_start: 2023-08-21
+    date_end: 2028-05-15
     summary: |
       GPA: 3.26/4.0
 work:
