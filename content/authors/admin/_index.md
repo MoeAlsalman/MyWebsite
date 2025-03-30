@@ -42,10 +42,10 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Cognitive Neuroscience
+  - Neuropsychology & Mental Health
+  - Behavioral Nutrition
+  - Health & Nutritional Equity
 education:
   - area: B.S. Dietetics & Nutrition
     institution: University of Illinois - Urbana Champaign
@@ -54,10 +54,10 @@ education:
     summary: |
       GPA: 3.26/4.0
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      ''
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: '
+      url: ''
   - area: B.S.LAS. Psychology in Cognitive Neuroscience
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
@@ -65,103 +65,78 @@ education:
     summary: |
       GPA: 3.26/4.0
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Place holder
+    company_name: ''
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      ''
+    company_name: ''
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: PLace holder
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: PLace holder
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: PLace holder
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: Activities
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Place holder
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: PLace holder
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: PLace holder
         description: ''
         percent: 80
         icon: camera
 
 languages:
+  - name: Arabic
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Turkish
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: NPLace holder
+    url: https://www.google.com/
     date: '2023-11-25'
-    awarder: Coursera
+    awarder: 'someone'
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      ''
 ---
 
 ## About Me
 
-A student at the University of Illinois Urbana-Champaign, pursuing dual degrees in Dietetics & Nutrition and Cognitive Neuroscience. CServing as a Research Assistant, focusing on mental health and nutrition, while also contributing as a Teaching Assistant in contemporary nutrition.
+A student at the University of Illinois Urbana-Champaign, pursuing dual degrees in Dietetics & Nutrition and Cognitive Neuroscience. Serving as a Research Assistant, focusing on mental health and nutrition, while also contributing as a Teaching Assistant in contemporary nutrition.
