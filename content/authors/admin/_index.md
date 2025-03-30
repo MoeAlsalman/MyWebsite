@@ -33,25 +33,20 @@ profiles:
   - icon: at-symbol
     url: 'mailto:Alsalman@illinois.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/mdoxt/
   - icon: brands/github
     url: https://github.com/MoeAlsalman/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/moealsalman/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+
 
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
 
-eeducation:
+education:
   - area: |
       B.S. Dietetics & Nutrition  
       B.S.LAS. Psychology: Cognitive Neuroscience
