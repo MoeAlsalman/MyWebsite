@@ -21,9 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: Undergraduate Student
-{style=color:black"}
-
-
+{style="color: black"}
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Illinois - Urbana Champaign
