@@ -46,6 +46,7 @@ interests:
   - Neuropsychology & Mental Health
   - Behavioral Nutrition
   - Health & Nutritional Equity
+  - Gut-Brain Axis
 education:
   - area: B.S. Dietetics & Nutrition
     institution: University of Illinois - Urbana Champaign
