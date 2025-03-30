@@ -53,7 +53,7 @@ education:
     date_end: 2028-05-15
     summary: |
       GPA: 3.26/4.0
-  - area: B.S.LAS. Psychology in Cognitive Neuroscience
+  - area: B.S.LAS. Brain & Cgnitive Science
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
     date_end: 2028-05-15
@@ -134,4 +134,4 @@ awards:
 
 ## About Me
 
-A student at the University of Illinois Urbana-Champaign, pursuing dual degrees in Dietetics & Nutrition and Cognitive Neuroscience. Serving as a Research Assistant, focusing on mental health and nutrition, while also contributing as a Teaching Assistant in contemporary nutrition.
+A student at the University of Illinois Urbana-Champaign, pursuing dual degrees in Dietetics & Nutrition and Brain & Cognitive Science. Serving as a Research Assistant, focusing on mental health and nutrition, while also contributing as a Teaching Assistant in contemporary nutrition.
