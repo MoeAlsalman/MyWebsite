@@ -51,11 +51,11 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-education:
-
-  - area: B.S. Dietitics & Nutrition;
-      B.S.LAS. Psychology:Cognitive Neuroscience
-    institution: UNiversity of Illinois - Urbana Champaign
+eeducation:
+  - area: |
+      B.S. Dietetics & Nutrition  
+      B.S.LAS. Psychology: Cognitive Neuroscience
+    institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
     date_end: 2028-05-15
     summary: |
