@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: istockphoto-1482773020-1024x1024.jpg
+          filename: back1.png
           filters:
             brightness: 1.0
           size: cover
