@@ -7,21 +7,21 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Soon
+  - name: Soon1
     url: /
     weight: 11
-  - name: Soon
+  - name: Soon2
     url: /
     weight: 12
-  - name: Soon
+  - name: Soon3
     url: /
     weight: 13
-  - name: Soon
+  - name: Soon4
     url: /
     weight: 20
-  - name: Soon
+  - name: Soon5
     url: /
     weight: 30
-  - name: Soon
+  - name: Soon6
     url: /
     weight: 40
