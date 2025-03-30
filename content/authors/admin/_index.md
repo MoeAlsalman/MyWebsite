@@ -47,9 +47,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: B.S. Dietetics & Nutrition
-  
-          B.S.LAS. Psychology in Cognitive Neuroscience
+  - area: "B.S. Dietetics & Nutrition\nB.S.LAS. Psychology in Cognitive Neuroscience"
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
     date_end: 2028-05-15
