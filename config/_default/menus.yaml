@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Experince (Soon)
-    url: /workspaces/MoeAlsalman.github.io/content/experience.md
+    url: /content/experience.md
     weight: 11
   - name: Blog (Soon)
     url: /
