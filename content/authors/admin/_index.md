@@ -72,7 +72,7 @@ work:
     company_name: ''
     company_url: ''
     company_logo: ''
-    date_start: 2016-018-01
+    date_start: 2016-08-01
     date_end: 2020-12-31
     summary: |
       ''
