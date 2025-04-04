@@ -61,6 +61,16 @@ education:
     summary: |
       GPA: 3.26/4.0
 work:
+
+  - position: Student Researcher
+    company_name: Imam Abdulrahman Bin Faisal University
+    company_url: https://www.iau.edu.sa/en/administration/centers/institute-for-research-and-medical-consultations-irmc
+    company_logo: IAU-logo.svg
+    date_start: 2021-06-01
+    date_end: 2021-12-01
+    summary: |2-
+      Student Researcher experienced in molecular genetics. Conducted groundbreaking research on "ACTB, KDM5D, UTY, and USP9Y genes for single tube sex determination PCR." I was working under the supervision of Dr. Francis Borgio, Chairman and Associate Professor at the Institute for Research and Medical Consultation. Passionate about contributing to scientific advancements in genetics.
+    
   - position: Research Intern
     company_name: Mawhiba
     company_url: https://www.mawhiba.org/EN
@@ -69,7 +79,6 @@ work:
     date_end: 2021-07-01
     summary: |2-
       Research Intern proficient in Biomedicine & Genomics. Conducted impactful research on diagnosing x-linked hereditary diseases using genetic Biomarkers during a 3-week-long Gifted Students Research program. Seeking to contribute expertise in a dynamic research environment while further advancing knowledge in the field.
-    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
