@@ -24,7 +24,7 @@ sections:
         color: purple
         image:
           # Add your image background to `assets/media/`.
-          filename: back2.png
+          filename: back3.png
           filters:
             brightness: 1.0
           size: cover
