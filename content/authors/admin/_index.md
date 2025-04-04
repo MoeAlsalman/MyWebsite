@@ -64,11 +64,11 @@ work:
   - position: Research Intern
     company_name: Mawhiba
     company_url: https://www.mawhiba.org/EN
-    company_logo: https://www.mawhiba.org/media/5xkh2pgd/main-logo.svg
+    company_logo: mawhiba-logo.svg
     date_start: 2021-06-01
     date_end: 2021-07-01
     summary: |2-
-      ''
+      Research Intern proficient in Biomedicine & Genomics. Conducted impactful research on diagnosing x-linked hereditary diseases using genetic Biomarkers during a 3-week-long Gifted Students Research program. Seeking to contribute expertise in a dynamic research environment while further advancing knowledge in the field.
     
 
 # Skills
