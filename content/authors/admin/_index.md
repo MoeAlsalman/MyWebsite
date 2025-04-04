@@ -61,18 +61,18 @@ education:
     summary: |
       GPA: 3.26/4.0
 work:
-  - position: Place holder
-    company_name: ''
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Research Intern
+    company_name: Mawhiba
+    company_url: https://www.mawhiba.org/EN
+    company_logo: https://www.mawhiba.org/media/5xkh2pgd/main-logo.svg
+    date_start: 2021-06-01
+    date_end: 2021-07-01
     summary: |2-
       ''
     company_name: ''
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
+    date_start: 2016-018-01
     date_end: 2020-12-31
     summary: |
       ''
