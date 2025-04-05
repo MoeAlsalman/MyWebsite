@@ -102,7 +102,7 @@ work:
     company_url: https://salaam.illinois.edu/
     company_logo: Salaam-Logo.jpeg
     date_start: 2023-06-01
-    date_end: 2024-8-01
+    date_end: 2024-08-01
     summary: |2-
       I had the opportunity to produce and direct cultural podcast episodes with Salaam MENA Cultural Center. Additionally, I received training in catering basics and services, which provided me with a solid foundation in food service operations. I also conducted thorough content analysis on cultural sensitivity within the food and nutrition industry.
 
