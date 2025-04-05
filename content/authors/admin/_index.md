@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:Alsalman@illinois.com'
+    url: 'mailto:Main@AlSalman.moe'
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/mdoxt/
@@ -53,13 +53,19 @@ education:
     date_start: 2023-08-21
     date_end: 2028-05-15
     summary: |
-      GPA: 3.26/4.0
+      ''
   - area: B.S.LAS. Brain & Cgnitive Science
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
     date_end: 2028-05-15
     summary: |
-      GPA: 3.26/4.0
+      ''
+  - area: I.E.I. Foundation Degree
+    institution: University of Illinois - Urbana Champaign
+    date_start: 2022-08-01
+    date_end: 2023-07-01
+    summary: |
+      ''
 work:
   - position: Research Assistant
     company_name: University of Illinois - Urbana Champaign @ School of Scoial Work
@@ -126,43 +132,43 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: PLace holder
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: PLace holder
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: PLace holder
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Activities
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Place holder
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: PLace holder
-        description: ''
-        percent: 100
-        icon: cat
-      - name: PLace holder
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#  - name: Technical Skills
+ #   items:
+  #    - name: PLace holder
+  #      description: ''
+  #      percent: 80
+  #      icon: code-bracket
+  #    - name: PLace holder
+  #      description: ''
+  #      percent: 100
+  #      icon: chart-bar
+  #    - name: PLace holder
+  #      description: ''
+  #      percent: 40
+  #      icon: circle-stack
+  #- name: Activities
+  #  color: '#eeac02'
+  #  color_border: '#f0bf23'
+  #  items:
+  #    - name: Place holder
+  #      description: ''
+  #      percent: 60
+  #      icon: person-simple-walk
+  #    - name: PLace holder
+  #      description: ''
+  #      percent: 100
+  #      icon: cat
+  #    - name: PLace holder
+  #      description: ''
+  #      percent: 80
+  #      icon: camera
 
 languages:
   - name: Arabic
     percent: 100
   - name: English
-    percent: 100
+    percent: 90
   - name: Turkish
     percent: 60
 
@@ -170,14 +176,14 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: NPLace holder
-    url: https://www.google.com/
-    date: '2023-11-25'
-    awarder: 'someone'
-    icon: coursera
-    summary: |
-      ''
+#awards:
+#  - title: NPLace holder
+#    url: https://www.google.com/
+#    date: '2023-11-25'
+#    awarder: 'someone'
+#    icon: coursera
+#    summary: |
+#      ''
 ---
 
 ## About Me
