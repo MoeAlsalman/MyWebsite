@@ -54,7 +54,7 @@ education:
     date_end: 2028-05-15
     summary: |
       
-  - area: B.S.LAS. Brain & Cgnitive Science
+  - area: B.S.LAS. Brain & Cognitive Science
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
     date_end: 2028-05-15
