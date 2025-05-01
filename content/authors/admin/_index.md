@@ -53,19 +53,19 @@ education:
     date_start: 2023-08-21
     date_end: 2028-05-15
     summary: |
-      ''
+      
   - area: B.S.LAS. Brain & Cgnitive Science
     institution: University of Illinois - Urbana Champaign
     date_start: 2023-08-21
     date_end: 2028-05-15
     summary: |
-      ''
+      
   - area: I.E.I. Foundation Degree
     institution: University of Illinois - Urbana Champaign
     date_start: 2022-08-01
     date_end: 2023-07-01
     summary: |
-      ''
+      
 work:
   - position: Research Assistant
     company_name: University of Illinois - Urbana Champaign @ School of Scoial Work
