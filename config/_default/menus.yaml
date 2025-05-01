@@ -10,7 +10,7 @@ main:
   - name: Experince
     url: experience/
     weight: 11
-  - name: Blog (Soon)
+  - name: Blog
     url: post/
     weight: 12
   - name: Projects (Soon)
