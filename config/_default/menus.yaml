@@ -13,15 +13,15 @@ main:
   - name: Blog
     url: post/
     weight: 12
-  - name: Projects (Soon)
-    url: /
-    weight: 13
-  - name: Resources (Soon)
-    url: /
-    weight: 20
-  - name: News (Soon)
-    url: /
-    weight: 30
-  - name: Contact info (Soon)
-    url: /
-    weight: 40
+  #- name: Projects (Soon)
+   # url: /
+    #weight: 13
+  #- name: Resources (Soon)
+   # url: /
+    #weight: 20
+  #- name: News (Soon)
+    #url: /
+   # weight: 30
+  #- name: Contact info (Soon)
+    #url: /
+   # weight: 40
