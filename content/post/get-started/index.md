@@ -1,16 +1,15 @@
 ---
 title: "Eat like Ghandi: Stop Food Waste Day!"
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+summary: Lets conserve food and celebrate Stop Food Waste Day!
+date: 2025-04-30
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 
 authors:
   - admin
-  - Ted
 
 tags:
   - Academic
@@ -18,69 +17,39 @@ tags:
   - Markdown
 ---
 
-Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
 ## Overview
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Eat like Gandhi. Yes, Mahatma Gandhi. He once said: “There are people in the world so hungry that God cannot appear to them except in the form of bread,” and “Be the change you are trying to create.” Thinking of our bread, the food we consume daily, do we cherish it? Did you know that 30 to 40 percent of the food supply in the United States goes to waste? We appreciate the food we are given through conserving it . One way to start reducing food waste is through Stop Food Waste Day. This globally recognized day is your first step in the thousand-mile journey of eating like Ghandi, appreciating food, and feeling gratitude for the blessing we are given; food. Why is this day important? Let’s uncover that.
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+### Food  Waste
 
-### Get Started
+Food waste is not only a national challenge but a global problem affecting us all. According to the World Health Organization, “1 in 11 people worldwide faced hunger in 2023.”  This elevated percentage is an active alarm that we must stop wasting food and help those who need it. Food waste outcomes are adverse and not limited to world hunger; those outcomes can manifest environmentally, too. Food waste is one of the most significant contributors to the rising rate of greenhouse gas emissions , Which holds the sun's heat, which in turn amplifies global warming.  By preserving food, we also protect the environment, ensuring we live on a thriving planet.
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+## Stop Food Waste Day
 
-## Crowd-funded open-source software
+Stop Food Waste Day is a globally recognized event held annually on April 30th. It aims to raise global awareness about food waste and, most importantly, what we can do as individuals in our everyday lives to help reduce it. Stop Food Waste Day is a reminder that food conservation is not something we must dedicate a specific time or place to do; it is as simple as a lifestyle we can integrate into our routine. This great day was founded in 2017 by Compass Group USA, Inc., marking this year as the annual 9th Stop Food Waste Day. The movement was initially created to bring attention to the challenge of food waste that the world is facing. Yet, it has become a movement where we collectively face this challenge by honoring food and its value. Knowing that change ignites from inside, especially in communities, Having an international day that motivates food waste reduction is an excellent move towards building a collaborative bond between people worldwide to work together for a more sustainable food system.  This structure of societal engagement fosters education about the difficulties we face in food systems. By incorporating education, we will nourish the success of this campaign, as education is a leading factor that influences our behavior, simultaneously creating a difference in the long and short term. 
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## How to get involved
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+Now, how can you be part of the Stop Food Waste Day? It is very easy, and there are various ways to contribute:
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+## 1. Utilizing leftovers
 
-## Ecosystem
+One way would be to utilize food leftovers instead of throwing them away. You would be surprised by what you can make using leftovers. A great resource to help with this is the recipes provided on the movement's official website. You can be as creative as you want; making delicious snacks or even meals from food that would have gone to waste is fun. A free cookbook is also available on the movement's official website.
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+## 2. Plan ahead
 
-## Inspiration
+Planning before purchasing food items is a great way to minimize food waste. Make a grocery list before heading to the supermarket. By doing so, you will buy what you need for said recipe without the need to purchase extra items that would have gone to waste. This will help you financially, too, as it helps you navigate your grocery monthly budget, reduce unnecessary purchases, and clearly understand what your spending trends look like when it comes to food.
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+## 3. Post, Hashtag, Share!
 
-## Features
+Today, I pledge to reduce my food waste. Will you join me? Posting the Stop Food Waste Day pledge on social media is a great way to participate. You can also download the campaign toolkit from the official movement website. This toolkit includes downloadable social media cards that can be posted on Instagram and other platforms. You can download the cards, use the #StopFoodWasteDay hashtag, and post. By these simple steps, you have helped spread awareness. The kit has many informative printables that you can print and hang in your kitchen to help you conserve food when preparing food.
 
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+These are just a few ways to be a part of the movement. Remember that you can always contribute creatively in your own unique way. The sky is your limit.
 
-## Themes
+## Final remarks
 
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Stop Food Waste Day aims to raise international awareness about food waste by educating the community about food conservation practices and what we can do as individuals in our everyday lives to help reduce it. Getting involved with the movement can be a great starting point for a sustainable lifestyle regarding food waste. Conserving food will help us achieve a more balanced food system and help with world hunger, greenhouse gas emissions, and many other challenges we face, one step at a day. What’s best about Stop Food Waste Day is that you can be a part of the movement anywhere in the world in various ways that suit your everyday life. During April 30th, we will be a collective from different countries, diverse cultures, and numerous lifestyles united in celebrating food by conserving it. It is your turn today to make the first step and be part of the solution toward a more equitable, sustainable, environment-friendly food system.
