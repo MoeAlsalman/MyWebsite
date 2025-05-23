@@ -65,6 +65,8 @@ It is a traditional thermos that you pour coffee from upon service.
 
 #### 5. Fin’jāl
 
+<img src="https://roastinghouse.sa/media/catalog/product/cache/c61fa29da8d2a02fc64fb550224ec6e4/_/d/_dsc2000-removebg-previe11w.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 381px; height: 145px; margin: 0px; width: 145px;" alt="فنجال بيت التحميص - بورسلان راس الخيمة" jsname="kn3ccd">
+
 The small cup that you serve coffee in. Comes in different sizes and colors, usually has a print or a pattern design on it.
 
 #### 6. Sweet or dates
