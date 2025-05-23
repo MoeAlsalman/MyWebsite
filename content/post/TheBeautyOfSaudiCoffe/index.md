@@ -20,6 +20,8 @@ tags:
 
 ## Introduction
 
+<iframe width="748" height="421" src="https://www.youtube.com/embed/Cs5KzKHFEgU" title="Saudi coffee, culture in a cup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 “Samm.” Said gently.  A Fin’jāl of Saudi coffee is extended to you. The scent rises. Cardamom blends with the fragrance of clove and the sweetness of saffron. It’s warm, like a tender homeland, and a joyful majlis. Like a family reunion on a Friday and the morning of Eid, Saudi coffee smiles at you and gives you tidings of a happy beginning to your day. It is considered one of the most essential national drinks. We all hold unique cultural differences from the West to the East, North, South, and the Najd region, yet we gather around one table to share Saudi coffee. The older adult and the teenager, the joyful and the sorrowful, we are all embraced by it. Today, I will speak about the art of Saudi coffee and how such a simple drink, so beautifully crafted, has captivated everyone with its smoothness and enchanting body. I talk about a part of me as a Saudi, a part of my culture that represents me and tells a meaningful part of my life as I grow up.
 
@@ -33,7 +35,7 @@ On many religious occasions, such as Eid al-Fitr, Eid al-Adha, and Ramadan, Saud
 
 Each region in Saudi Arabia has a unique way to make coffee. I grew up in Dammam, a beautiful coastal city that holds a deep emotional significance in my heart. That being said,  I chose to share  the Eastern Province region's way of making Saudi Coffee, my favorite.
 
-<iframe width="748" height="421" src="https://www.youtube.com/embed/d7qROEWIJVY?list=PL6vVkzge4FnqWKeEqth9h7k18cBfxyq_4" title="عام القهوة السعودية 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Ingredients
 
@@ -58,11 +60,18 @@ The writer needs his pen, The firefighter needs a hydrant, and a Saudi COffee ba
 A tool made of iron or copper, used to roast coffee over fire. It is equipped with a long handle to stir and turn the coffee beans during roasting.
 
 #### 2. Mubarrad (Cooler)
+![Mubarrad](Mubarrad.png)
+
 A container made of wood or copper. You place roasted beans in this box. It comes in different shapes, either circular or rectangular.
 
 #### 3. Najr (Mortar)
+![Najr](Najr.png)
+
 A  hollow block made of stone, copper, or iron, used to grind the roasted coffee beans using a pestle called "Yad Al-Najr" (Najr hand). The sound of grinding in the najar is considered a traditional announcement of hospitality, a smooth song that enchants your ears.
+
 #### 4. Dallah (Zall)
+
+<img src="https://png.pngtree.com/png-vector/20250305/ourmid/pngtree-traditional-arabic-coffee-pot-dallah-png-image_15718856.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 360px; height: 246px; margin: 0px; width: 246px;" alt="Dallah Coffee Arabic PNG Transparent Images Free Download | Vector Files |  Pngtree" jsname="kn3ccd">
 
 It is a traditional thermos that you pour coffee from upon service.
 
