@@ -34,6 +34,7 @@ On many religious occasions, such as Eid al-Fitr, Eid al-Adha, and Ramadan, Saud
 Each region in Saudi Arabia has a unique way to make coffee. I grew up in Dammam, a beautiful coastal city that holds a deep emotional significance in my heart. That being said,  I chose to share  the Eastern Province region's way of making Saudi Coffee, my favorite.
 
 <iframe width="748" height="421" src="https://www.youtube.com/embed/d7qROEWIJVY?list=PL6vVkzge4FnqWKeEqth9h7k18cBfxyq_4" title="عام القهوة السعودية 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Ingredients
 
 * 800 mL Water
@@ -53,6 +54,7 @@ Each region in Saudi Arabia has a unique way to make coffee. I grew up in Dammam
 The writer needs his pen, The firefighter needs a hydrant, and a Saudi COffee barista needs her own gear. You ask me, what tools do you need to make Saudi Coffee? I got you! Let's start:
 
 #### 1. Mih’mas (Roster)
+![Mihams](Mihmas.png)
 A tool made of iron or copper, used to roast coffee over fire. It is equipped with a long handle to stir and turn the coffee beans during roasting.
 
 #### 2. Mubarrad (Cooler)
