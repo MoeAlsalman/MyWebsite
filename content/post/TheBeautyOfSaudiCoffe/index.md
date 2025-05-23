@@ -108,6 +108,8 @@ Now, let's go over hospitality rules. These are basics that you should know when
 
 * As a demonstration of respect, the server shall remain standing while offering coffee, refraining from sitting down until they make sure that every guest has gotten their coffee.
 
+<iframe width="748" height="421" src="https://www.youtube.com/embed/p6tTziq0RDk" title="القهوة السعودية؛ عادات وسلوم" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## The Year of Saudi Coffee 2022
 
 The Saudi Arabian Ministry of Culture has declared the year 2022 as the Saudi Coffee year, celebrating the deep meaning coffee holds among Saudi nationals. This initiative was launched as a part of emphasizing the importance the Saudi Coffee holds, weather in heritage, identity, and modern day. It also highlighted the Khawlani Saudi coffee beans as a form of support to local agricultural entities. Over the span of 32 events, the Ministry of Culture spread joy globally, inviting people to drink Saudi coffee and experiencing its mesmerizing smell and taste. Make sure to visit the Saudi MInistry of Culture website to learn more about this event.
