@@ -134,4 +134,5 @@ The Saudi Arabian Ministry of Culture has declared the year 2022 as the Saudi Co
 1. https://engage.moc.gov.sa/moc/year-of-saudi-coffee
 2. https://sabq.org/saudia/095e6kqca2
 
+## Copyrights of the Article
 <a href="https://www.alsalman.moe/post/thebeautyofsaudicoffe/">One Fin’jāl, Please: The beauty of Saudi Coffee</a> © 2025 by <a href="https://www.alsalman.moe/">Mohammed Mokhtar Alsalman</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
